@@ -16,6 +16,8 @@ The user is provided with several key controls like:
 6. k->Stop the moving plane
 
 7. l->Start the moving plane
+
+   
 Through visualization and simulating the components in a designated fashion, we have tried to
 implement the terrain side village scene while exploring the animation effects using OpenGL and
 GLUT library functions.
